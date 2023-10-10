@@ -230,9 +230,9 @@
 
         <!-- Shaded packages -->
         <dependency>
-            <groupId>com.github.StarWishsama.dough</groupId>
+            <groupId>com.github.SkipM4.dough</groupId>
             <artifactId>dough-api</artifactId>
-            <version>9e25b14cb7</version>
+            <version>c44a1c4186</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
